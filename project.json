@@ -1,0 +1,19 @@
+{
+  "name": "abu-nawaf-hub",
+  "title": "أبو نواف | أدوات وخدمات",
+  "category": "صفحات",
+  "description": "مركز/Hub أبو نواف.",
+  "liveUrl": "https://abu-nawaf-hub-zqxd.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "أبو نواف | أدوات وخدمات",
+  "originalDescription": "مركز/Hub أبو نواف.",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "index.html",
+    "robots.txt"
+  ]
+}
